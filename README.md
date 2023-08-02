@@ -1,5 +1,5 @@
-# Object-oriented-programming-JAVA- (SMU:HAEI0007)
+# Object-Oriented-Programming-JAVA- (SMU:HAEI0007)
 
-In Object-oriented-programming class, I learn OOP using JAVA.
+In Object-oriented-programming class, I learned about OOP using JAVA.
 
-In this repo, I posted every assignment i had to do during this class.
+In this repo, I posted every assignment I'd done during this class.
